@@ -19,27 +19,32 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            Greetings! I'm Shahzaib Malik, a highly skilled and dedicated Software Engineer 
+            and web Developer. With a proven track record of 3 years in web development, 
+            I specialize in crafting exceptional websites that leave a lasting impact. 
+            Whether it's debugging websites or Android Apps, or integrating machine learning models for enhanced functionality, I ensure top-notch results.
               <br />
-              <br />I am fluent in classics like
+              <br />I possess expertise in 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple">   
+              both front-end and back-end development, 
+             utilizing a wide range of programming languages
+              and frameworks including React Js, HTML5, CSS, 
+              PHP, SQL, C++, Java, Python, React Native, and WordPress. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and Deploying ML Models into the websites and Android Apps. </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Machine Learning & Deep Learning Projects.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I have good expertise in the backend development, Working with databases <b className="purple">PHP</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -67,7 +72,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/shahzaib2021"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +82,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/say_its_malik"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +92,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/muhammad-shahzaib-malik-826a04222/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +102,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/tech.kulaooz"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
