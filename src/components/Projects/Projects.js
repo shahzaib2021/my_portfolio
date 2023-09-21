@@ -41,7 +41,7 @@ function Projects() {
               isBlog={false}
               title="Bits-0f-C0de"
               description="I have meticulously crafted my personal portfolio page using Next.js and Tailwind CSS with the primary goal of providing an insightful and comprehensive platform for my potential clients. Through this portfolio, I aim to offer a deeper understanding of my professional journey, showcasing my wealth of experience, accomplishments, and skills. It serves as an invaluable resource for anyone seeking to gain insights into my background and expertise."
-               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+               ghLink="https://shahzaib2021.github.io/my_portfolio/"
               demoLink="#"
             />
           </Col>
